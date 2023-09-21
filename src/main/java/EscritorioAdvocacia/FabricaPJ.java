@@ -1,4 +1,4 @@
-package patterns.abtractFactory;
+package EscritorioAdvocacia;
 
 public class FabricaPJ implements FabricaAbstrata{
     @Override

@@ -1,4 +1,4 @@
-package patterns.abtractFactory;
+package EscritorioAdvocacia;
 
 public class ContratoPF implements Contrato{
     @Override
